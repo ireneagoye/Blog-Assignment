@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            TITLE_HERE
+title:            The Diya Lamp: A Sacred Light in Hindu Ritulals
 tagline:          ''
 description:      ''
-url:              https://kikibase.github.io
+url:              https://ireneagoye.github.io
 baseurl:          '/Blog-Assignment/'
-author: WriteNameHere
-email: replace@gmail.com
+author: Irene Agoye
+email: agoyei@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
